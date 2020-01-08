@@ -1,9 +1,29 @@
-# Basic-Portfolio
+# Portfolio  or Resume or CV
+This repo contains a portfolio resume that showcases examples of your work along with the usual resume information about your work experience.
+It was created with HTML, CSS and Javascript. Its is lightweight and fully responsive, as well as comes with the Bootstrap.
 
-Using basic HTML/CSS to design this portfolio. _(No mobile responsive applied to it yet.)_ 
-For mobile responsive portfolio, you can have a look at [Bootstrap-Portfolio](https://github.com/ngl4/Bootstrap-Portfolio) and [Responsive-Portfolio](https://github.com/ngl4/Responsive-Portfolio).
+To view a live demo, [click here](https://bharadhwaj-g.github.io/portfolio/)
 
-### Reflection:
-This basic portfolio helps me to understand the concepts of HTML and CSS better. I have experiment with different units of expressing sizes and length, such as,  `em`, `%`, and `px`, to learn more about their difference. I still need to go to do some research to get to know about these units more. 
+## Features
+* Easy to integrate
+* Fully responsive
+* Bootstrap with few animations.
 
-I still need to do more practice in CSS in order to write code more semantic. 
+## Setup
+* Clone the repository
+* Replaced the content with your's info.
+
+## TODO
+* Have to setup Gulp or Webpack for minification of script files.
+* Make it dynamic
+* Provide feature to change the themes or colors easily.
+
+## Changelog
+
+### 1.0.0
+
+* Relesed stable version with basic content
+* Added skills section
+## License
+
+Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
